@@ -33,6 +33,8 @@ I'm just front-end learner.
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </div>
 
-<--! <h2> 🔭 I’m currently working on ... </h2> -->
+<!-- 
+<h2> 🔭 I’m currently working on ... </h2> 
+-->
 
 
