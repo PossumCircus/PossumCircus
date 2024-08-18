@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0500BE&height=250&section=header&text=PossumCircus's%20Github!&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0500BE&height=250&section=header&text=김종현's%20Github!&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50" />
 
 <!--
 - 🔭 I’m currently working on ...
