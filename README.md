@@ -13,7 +13,6 @@ Fron
 
 <h2> 📚 Tech Stacks </h2>
 <div>
-
     <br>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
@@ -31,8 +30,6 @@ Fron
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">&nbsp
-
   <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">&nbsp
   <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">&nbsp
