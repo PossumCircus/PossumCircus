@@ -1,15 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0500BE&height=250&section=header&text=김종현's%20Github!&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50" />
-<p>
-    
-<h1>Hi 👋, I'm 김종현</h1>
-
 <h4>개발자로서</h4>
 <p>처참한 아키텍처를 겪은 후 아키텍처의 중요성을 알고 있습니다.</p>
-<p>회복 탄력성이 좋은/생산성이 있는 개발자가 되고자 합니다.</p>
 <p>DX가 UX로 이어진다고 생각합니다.</p>
+<p>협업 및 커뮤니케이션 능력이 개발자의 주요 역량임을 압니다.</p>
+<p>문서화의 중요성을 압니다.</p>
 
 <h4>개인으로서</h4>
-<p>새로운 환경, 새로운 배움을 찾으려 노력합니다.</p>
+<p>회복 탄력성이 좋은/생산성이 있는 사람이 되고자 합니다.</p>
 <p>생각하고, 쓰고, 지우기를 반복하며 글을 쓰는 법을 연습하고 있습니다.</p>
 
 <h2> 📚 Tech Stacks </h2>
